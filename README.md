@@ -1,0 +1,3 @@
+# MPRangeSelector
+双向滑动的区间选择器（RangeSelector)
+核心是创建两个HitTestView, 使用一个UIPanGestureRecognizer进行滑动判断和处理。
